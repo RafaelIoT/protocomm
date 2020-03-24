@@ -1,0 +1,9 @@
+{
+    "kafkaServer": "127.0.0.1:9092",
+    "MQTTServer": "127.0.0.1:1885",
+    "consumerGroup": "consumers",
+    "consumerTopic": "test",
+    "consumerPublishTopic": "coap",
+    "producerGroup": "producers",
+    "producerTopic": "test"
+}
